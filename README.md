@@ -1,4 +1,4 @@
-HomeworkName
+TextFileStemmer
 =================================================
 
 ![Points](../../blob/badges/points.svg)
