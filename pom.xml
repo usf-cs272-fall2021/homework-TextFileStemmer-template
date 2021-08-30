@@ -89,5 +89,12 @@
 			<version>${platformVersion}</version>
 			<scope>test</scope>
 		</dependency>
+
+		<!-- for stemming words -->
+		<dependency>
+			<groupId>org.apache.opennlp</groupId>
+			<artifactId>opennlp-tools</artifactId>
+			<version>${opennlpVersion}</version>
+		</dependency>
 	</dependencies>
 </project>
